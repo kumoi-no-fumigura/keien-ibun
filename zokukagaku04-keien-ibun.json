@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/keien-ibun",
  "yomi": "けいえんいぶん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌学書（書簡・文章）",
+  "era": "安政6年（1859）10月序",
+  "author": "香川景樹（1768〜1843）",
+  "desc": "香川景樹が門人に歌の教えを説いた書簡や文章を集めたもの。三十六人集の歌についての論も含む。"
+ },
  "editions": [
   {
    "pid": "993382",
